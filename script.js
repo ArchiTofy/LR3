@@ -1,6 +1,6 @@
 var a = 0;
 var b = 0;
-document.getElementById('btn1').addEventListener("click1",BTN1)
+document.getElementById('btn1').addEventListener("click",BTN1)
 //var c = a + b;
 function BTN1 (c) 
 {
@@ -15,7 +15,7 @@ function BTN1 (c)
  alert (a)
 
 }
-document.getElementById('btn2').addEventListener("click2",BTN2)
+document.getElementById('btn2').addEventListener("click",BTN2)
 //var c = a + b;
 function BTN2 (c) 
 {
