@@ -1,0 +1,35 @@
+html {
+    height: 150%;
+    box-sizing: border-box;
+    margin-top: 1px;
+    background: url(http://img1.safereactor.cc/pics/post/full/waneella-Pixel-Gif-Pixel-Art-5074873.gif) center no-repeat;
+    background-size: 150% 150%;
+color: #fff; /* Белый цвет текста */
+   
+   }
+
+h2
+{
+color:rgb(245, 237, 237);
+size :1023pc;
+}
+
+
+
+.box{
+  margin-top: 300px;
+  width: 350px;
+  padding: 80px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  background: rgba(204, 23, 23, 0.733);
+  text-align: center;
+  border-radius: 150px;
+  border-top: 20px outset #e62107;
+  border-bottom: 20px outset  #e62107;
+  border-left: 20px outset  #e62107;
+  border-right: 20px outset  #e62107;
+}
+
